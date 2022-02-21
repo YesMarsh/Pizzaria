@@ -12,5 +12,5 @@ Projeto de uma pequena Landing page de uma pizzaria 😉
 ---
 
 <h1 align="center">
-<img src="" />
+<img src="ezgif.com-gif-maker.gif" />
 <h1>
