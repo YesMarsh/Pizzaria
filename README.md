@@ -8,7 +8,7 @@
 
 ---
 
-Projeto de uma pequena Landing page de uma pizzaria 😉
+Small Project of a pizzaria Landing page 😉👍
 ---
 
 <h1 align="center">
